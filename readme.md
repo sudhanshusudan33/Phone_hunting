@@ -1,6 +1,6 @@
 ### Nitro Gadgets Search Project
 
-Hosted Link: [Nitro Gadgets Search Project](https://sudhanshusudan33.github.io/phone_hunting/)
+Hosted Link: [Nitro Gadgets Search Project](https://sudhanshusudan33.github.io/Phone_hunting/)
 
 This project allows users to search for phones and view their details. It includes a search bar, a loading spinner, and a grid layout for displaying phone cards.
 
